@@ -5,6 +5,8 @@ description: This resource contains Electron spectroscopy for Chemical Analysis,
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/8f4ceb588ab863006fef5575d74853b4_lecture11.pdf
 file_size: 225016
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

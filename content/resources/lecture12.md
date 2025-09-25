@@ -5,6 +5,8 @@ description: This resource contains water contact angle studies, ellipsometry an
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/968d25654ab201d30781f28b55023b62_lecture12.pdf
 file_size: 124000
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
