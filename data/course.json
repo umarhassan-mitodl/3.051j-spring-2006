@@ -32,6 +32,7 @@
     "website": "3-051j-materials-for-biomedical-applications-spring-2006"
   },
   "course_title": "Materials for Biomedical Applications",
+  "hide_download": true,
   "course_description": "This class provides an introduction to the interactions between cells and the surfaces of biomaterials. The course covers: surface chemistry and physics of selected metals, polymers, and ceramics; surface characterization methodology; modification of biomaterials surfaces; quantitative assays of cell behavior in culture; biosensors and microarrays; bulk properties of implants; and acute and chronic response to implanted biomaterials. General topics include biosensors, drug delivery, and tissue engineering.\n",
   "department_numbers": [
     "3",
@@ -43,6 +44,7 @@
     "content": "d3b6a433-168c-3f65-bb85-c7c3fbbdd60e",
     "website": "3-051j-materials-for-biomedical-applications-spring-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",
