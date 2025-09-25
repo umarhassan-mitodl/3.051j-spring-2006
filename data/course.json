@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Cell and Tissue Engineering"
+    ]
+  ],
+  "legacy_uid": "4f473c96-1ef9-e8a5-0b97-e8df0c15e97f",
+  "instructors": {
+    "content": [
+      "1968deb0-6204-93a7-8524-e5c2ab7bb81c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dd7e6b2d-e384-b403-1603-38bb0b12f33b",
+    "website": "3-051j-materials-for-biomedical-applications-spring-2006"
+  },
+  "course_title": "Materials for Biomedical Applications",
+  "course_description": "This class provides an introduction to the interactions between cells and the surfaces of biomaterials. The course covers: surface chemistry and physics of selected metals, polymers, and ceramics; surface characterization methodology; modification of biomaterials surfaces; quantitative assays of cell behavior in culture; biosensors and microarrays; bulk properties of implants; and acute and chronic response to implanted biomaterials. General topics include biosensors, drug delivery, and tissue engineering.\n",
+  "department_numbers": [
+    "3",
+    "20"
+  ],
+  "extra_course_numbers": "20.340J",
+  "primary_course_number": "3.051J",
+  "course_image_thumbnail": {
+    "content": "d3b6a433-168c-3f65-bb85-c7c3fbbdd60e",
+    "website": "3-051j-materials-for-biomedical-applications-spring-2006"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "8be922f6-a07b-46c1-8689-e79e6c270c75",
+  "site_short_id": "3.051j-spring-2006",
+  "site_url_path": "courses/3-051j-materials-for-biomedical-applications-spring-2006",
+  "title": "Course Metadata"
+}
