@@ -5,8 +5,6 @@ description: This resource contains delivery methods, colloidal drug delivery ve
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/82bb5feb428a20a03f0bb3876c21cd03_lecture20.pdf
 file_size: 201152
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

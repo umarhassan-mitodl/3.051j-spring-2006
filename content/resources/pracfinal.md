@@ -4,8 +4,6 @@ description: This file contains questions for final exam.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/f46ac296bd28aec08e33f2a184332bf8_pracfinal.pdf
 file_size: 168245
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

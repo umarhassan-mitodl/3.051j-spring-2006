@@ -5,8 +5,6 @@ description: This resource contains diabetes treatment by cell encapsulation, in
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/f35886c2acb257c2d1fb42f44b046da0_lecture23.pdf
 file_size: 226049
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

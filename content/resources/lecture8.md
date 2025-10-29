@@ -5,8 +5,6 @@ description: This resource contains chronic inflammation, bacterial infection, b
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/7bbbb1b246bece7667266246f3791663_lecture8.pdf
 file_size: 234506
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
