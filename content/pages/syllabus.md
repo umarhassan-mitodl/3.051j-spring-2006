@@ -19,7 +19,7 @@ This class provides an introduction to the interactions between cells and the su
 
 ## Prerequisites
 
-8.01; 8.02; [3.091](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/), [5.111](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/), or [5.112](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/); [7.012](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/), [7.013](https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/) or [7.014](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/); [3.012](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/), [5.60](https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/), or 2.40.
+8.01; 8.02; {{% resource_link "70264482-f1fa-484b-a96d-519e1fdaaa18" "3.091" %}}, {{% resource_link "0ce97775-8785-4aa3-9d94-5ccbe3bab2e6" "5.111" %}}, or {{% resource_link "878c6d12-cf71-4ceb-a132-49f3513e377a" "5.112" %}}; {{% resource_link "7fb32baa-b370-46de-a566-aa16770703e4" "7.012" %}}, {{% resource_link "5b3c3337-5d8c-4c3f-b22e-4907ba9dd697" "7.013" %}} or {{% resource_link "81e89e0f-2905-4aed-8deb-aca510baf2f1" "7.014" %}}; {{% resource_link "1c078112-37ba-4fed-a257-c97602bba361" "3.012" %}}, {{% resource_link "418d8d5c-fb61-48ff-8cd9-154550bcee12" "5.60" %}}, or 2.40.
 
 ## Texts
 
